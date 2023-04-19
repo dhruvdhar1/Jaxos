@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Coordinator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Coordinator_jar</output-path>
+    <root id="archive" name="coordinator.jar">
+      <element id="module-output" name="Project4_1" />
+    </root>
+  </artifact>
+</component>
